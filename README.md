@@ -16,7 +16,7 @@ Entrega do desafio DIO - Análise de Sentimentos com Language Studio no Azure AI
 
 Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e criar um com título desejado
 
-![image](../imagens/lab-01.png)
+<img  src="../imagens/lab-01.png" width="100%"/> 
 
 5 - Após criado com sucesso vá para https://language.cognitive.azure.com e acesse com suas credenciais da Microsoft.
 
@@ -26,15 +26,15 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 
 8- Selecione a linguagem do texto, o recurso criado nos passos anteriores. Após, carregue o arquivo com texto que será examinado ou digite o texto desejado
 
-![image](../imagens/lab-02.png)
+<img  src="../imagens/lab-02.png" width="100%"/> 
 
 9- Marque a caixa para ocnfirmar a demonstração e após clique em "Run"
 
 10- Verifique a saída com resultado de cada frase
 
-![image](../imagens/lab-03.png)
+<img  src="../imagens/lab-03.png" width="100%"/> 
 
-![image](../imagens/lab-04.png)
+<img  src="../imagens/lab-04.png" width="100%"/> 
 
 
 # Doc de Referência - Lab Microsoft
